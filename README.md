@@ -12,4 +12,4 @@ Resources:
 - https://docs.python.org/3/library/subprocess.html
 
 Additional Comments:
-Very simple program made in 45 minutes.
+- Very simple program made in 45 minutes. I learned how to use subproccess.
